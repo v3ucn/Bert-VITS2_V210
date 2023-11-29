@@ -1,0 +1,1 @@
+call .\venv\python.exe -m tensorboard.main --logdir=Data/keqing/models
